@@ -1,3 +1,0 @@
-1) Import database file "ongeza_test" into mysql database
-2) Extract ongeza file
-3) Run the project in the web browser eg. http://localhost/ongeza/
