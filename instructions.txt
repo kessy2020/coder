@@ -1,4 +1,0 @@
-1) Import database file "ongeza_test" into mysql database
-2) Extract project "ongeza" file
-3) Copy and past the extracted project "ongeza" folder to htdocs if your using xampp or to www directory if your using xampp
-3) Run the project in the web browser eg. http://localhost/ongeza/
